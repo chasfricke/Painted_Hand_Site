@@ -1,6 +1,7 @@
 {
   "projects": {
     "production": "portfolio-site-fricke",
-    "default": "portfolio-site-fricke"
+    "default": "portfolio-site-fricke",
+    "final": "painted-hand-design"
   }
 }
